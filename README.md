@@ -26,7 +26,7 @@ WAITERAPP é um aplicativo composto por uma área de administração de lanches 
 
 ✔️ INTEGRAÇÃO COM BACKEND
 
-✔️ REACT STYLED COMPONENTS => [STYLED COMPONENTS](https://styled-components.com)
+✔️ REACT STYLED COMPONENTS
 
 ## ✒️ Autores
 
